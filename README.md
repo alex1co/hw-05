@@ -7,6 +7,8 @@
 
 ### Задание 2
 
+![alt text](https://github.com/alex1co/hw-05/blob/main/img/rsynk%203.jpg)
+
 ![alt text](https://github.com/alex1co/hw-05/blob/main/img/rsync%202.jpg)
 ---
 
